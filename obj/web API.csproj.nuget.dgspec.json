@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\web API\\web API.csproj": {}
+    "/Users/alexsnow/webAPI/web API.csproj": {}
   },
   "projects": {
-    "C:\\web API\\web API.csproj": {
+    "/Users/alexsnow/webAPI/web API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\web API\\web API.csproj",
+        "projectUniqueName": "/Users/alexsnow/webAPI/web API.csproj",
         "projectName": "web API",
-        "projectPath": "C:\\web API\\web API.csproj",
-        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "C:\\web API\\obj\\",
+        "projectPath": "/Users/alexsnow/webAPI/web API.csproj",
+        "packagesPath": "/Users/alexsnow/.nuget/packages/",
+        "outputPath": "/Users/alexsnow/webAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/alexsnow/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
         }
       }
     }

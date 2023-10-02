@@ -1,32 +1,42 @@
-C:\web API\bin\Debug\net6.0\appsettings.Development.json
-C:\web API\bin\Debug\net6.0\appsettings.json
-C:\web API\bin\Debug\net6.0\web API.exe
-C:\web API\bin\Debug\net6.0\web API.deps.json
-C:\web API\bin\Debug\net6.0\web API.runtimeconfig.json
-C:\web API\bin\Debug\net6.0\web API.dll
-C:\web API\bin\Debug\net6.0\web API.pdb
-C:\web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\web API\obj\Debug\net6.0\web API.csproj.AssemblyReference.cache
-C:\web API\obj\Debug\net6.0\web API.GeneratedMSBuildEditorConfig.editorconfig
-C:\web API\obj\Debug\net6.0\web API.AssemblyInfoInputs.cache
-C:\web API\obj\Debug\net6.0\web API.AssemblyInfo.cs
-C:\web API\obj\Debug\net6.0\web API.csproj.CoreCompileInputs.cache
-C:\web API\obj\Debug\net6.0\web API.MvcApplicationPartsAssemblyInfo.cs
-C:\web API\obj\Debug\net6.0\web API.MvcApplicationPartsAssemblyInfo.cache
-C:\web API\obj\Debug\net6.0\staticwebassets\msbuild.web API.Microsoft.AspNetCore.StaticWebAssets.props
-C:\web API\obj\Debug\net6.0\staticwebassets\msbuild.build.web API.props
-C:\web API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.web API.props
-C:\web API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.web API.props
-C:\web API\obj\Debug\net6.0\staticwebassets.pack.json
-C:\web API\obj\Debug\net6.0\staticwebassets.build.json
-C:\web API\obj\Debug\net6.0\staticwebassets.development.json
-C:\web API\obj\Debug\net6.0\scopedcss\bundle\web API.styles.css
-C:\web API\obj\Debug\net6.0\web API.csproj.CopyComplete
-C:\web API\obj\Debug\net6.0\web API.dll
-C:\web API\obj\Debug\net6.0\refint\web API.dll
-C:\web API\obj\Debug\net6.0\web API.pdb
-C:\web API\obj\Debug\net6.0\web API.genruntimeconfig.cache
-C:\web API\obj\Debug\net6.0\ref\web API.dll
+C:/web API/bin/Debug/net6.0/appsettings.Development.json
+C:/web API/bin/Debug/net6.0/appsettings.json
+C:/web API/bin/Debug/net6.0/web API.exe
+C:/web API/bin/Debug/net6.0/web API.deps.json
+C:/web API/bin/Debug/net6.0/web API.runtimeconfig.json
+C:/web API/bin/Debug/net6.0/web API.dll
+C:/web API/bin/Debug/net6.0/web API.pdb
+C:/web API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/web API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/web API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/web API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/web API/obj/Debug/net6.0/web API.csproj.AssemblyReference.cache
+C:/web API/obj/Debug/net6.0/web API.GeneratedMSBuildEditorConfig.editorconfig
+C:/web API/obj/Debug/net6.0/web API.AssemblyInfoInputs.cache
+C:/web API/obj/Debug/net6.0/web API.AssemblyInfo.cs
+C:/web API/obj/Debug/net6.0/web API.csproj.CoreCompileInputs.cache
+C:/web API/obj/Debug/net6.0/web API.MvcApplicationPartsAssemblyInfo.cs
+C:/web API/obj/Debug/net6.0/web API.MvcApplicationPartsAssemblyInfo.cache
+C:/web API/obj/Debug/net6.0/staticwebassets/msbuild.web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/web API/obj/Debug/net6.0/staticwebassets/msbuild.build.web API.props
+C:/web API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.web API.props
+C:/web API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.web API.props
+C:/web API/obj/Debug/net6.0/staticwebassets.pack.json
+C:/web API/obj/Debug/net6.0/staticwebassets.build.json
+C:/web API/obj/Debug/net6.0/staticwebassets.development.json
+C:/web API/obj/Debug/net6.0/scopedcss/bundle/web API.styles.css
+C:/web API/obj/Debug/net6.0/web API.csproj.CopyComplete
+C:/web API/obj/Debug/net6.0/web API.dll
+C:/web API/obj/Debug/net6.0/refint/web API.dll
+C:/web API/obj/Debug/net6.0/web API.pdb
+C:/web API/obj/Debug/net6.0/web API.genruntimeconfig.cache
+C:/web API/obj/Debug/net6.0/ref/web API.dll
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.csproj.AssemblyReference.cache
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.AssemblyInfoInputs.cache
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.AssemblyInfo.cs
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.csproj.CoreCompileInputs.cache
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.MvcApplicationPartsAssemblyInfo.cs
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.dll
+/Users/alexsnow/webAPI/obj/Debug/net6.0/refint/web API.dll
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.pdb
