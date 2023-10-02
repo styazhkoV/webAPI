@@ -28,8 +28,5 @@ public static class PizzaService
     }
     public static void Delete (Pizza pizza)
     {
-        return;
     }
-   
-
 }
