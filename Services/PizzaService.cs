@@ -25,5 +25,11 @@ public static class PizzaService
         if(index == -1)
         return;
         Pizzas[index] = pizza;
-    }   
+    }
+    public static void Delete (Pizza pizza)
+    {
+        return ();
+    }
+   
+
 }
