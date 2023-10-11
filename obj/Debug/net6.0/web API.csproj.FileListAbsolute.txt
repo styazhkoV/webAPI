@@ -40,3 +40,25 @@ C:/web API/obj/Debug/net6.0/ref/web API.dll
 /Users/alexsnow/webAPI/obj/Debug/net6.0/web API.dll
 /Users/alexsnow/webAPI/obj/Debug/net6.0/refint/web API.dll
 /Users/alexsnow/webAPI/obj/Debug/net6.0/web API.pdb
+/Users/alexsnow/webAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/alexsnow/webAPI/bin/Debug/net6.0/appsettings.json
+/Users/alexsnow/webAPI/bin/Debug/net6.0/web API
+/Users/alexsnow/webAPI/bin/Debug/net6.0/web API.deps.json
+/Users/alexsnow/webAPI/bin/Debug/net6.0/web API.runtimeconfig.json
+/Users/alexsnow/webAPI/bin/Debug/net6.0/web API.dll
+/Users/alexsnow/webAPI/bin/Debug/net6.0/web API.pdb
+/Users/alexsnow/webAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/alexsnow/webAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alexsnow/webAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alexsnow/webAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alexsnow/webAPI/obj/Debug/net6.0/staticwebassets/msbuild.web API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/alexsnow/webAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.web API.props
+/Users/alexsnow/webAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.web API.props
+/Users/alexsnow/webAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.web API.props
+/Users/alexsnow/webAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/alexsnow/webAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/alexsnow/webAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/alexsnow/webAPI/obj/Debug/net6.0/scopedcss/bundle/web API.styles.css
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.csproj.CopyComplete
+/Users/alexsnow/webAPI/obj/Debug/net6.0/web API.genruntimeconfig.cache
+/Users/alexsnow/webAPI/obj/Debug/net6.0/ref/web API.dll
